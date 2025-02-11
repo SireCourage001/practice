@@ -1,6 +1,6 @@
 
 // 1. Define a variable called userName and set it to an empty string
-let userName = prompt("What's your name?"); // Enter your name here if desired, e.g., 'Jane'
+ let userName = prompt("What's your name?"); // Enter your name here if desired, e.g., 'Jane'
 
 // 2. Ternary expression to greet the user
 console.log(userName ? `Hello, ${userName}!` : 'Hello!');
